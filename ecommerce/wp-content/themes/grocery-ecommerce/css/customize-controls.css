@@ -1,0 +1,227 @@
+#customize-controls .control-section-grocery_ecommerce .accordion-section-title:hover,
+#customize-controls .control-section-grocery_ecommerce .accordion-section-title:focus {
+	background-color: #fff;
+}
+.control-section-grocery_ecommerce .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	margin-left: 8px;
+}
+.rtl .control-section-grocery_ecommerce .accordion-section-title .button {
+	margin-left:  0;
+	margin-right: 8px;
+}
+
+/*Customizer*/
+
+#customize-controls img {
+    margin-right: 12px;
+    margin-top: 15px;
+    border: solid 2px #000;
+    padding: 4px;
+}
+
+/*---- Button Input CSS ----*/
+li#customize-control-grocery_ecommerce_top_button_padding,
+li#customize-control-grocery_ecommerce_bottom_button_padding,
+li#customize-control-grocery_ecommerce_left_button_padding,
+li#customize-control-grocery_ecommerce_right_button_padding,
+li#customize-control-grocery_ecommerce_product_top_padding,
+li#customize-control-grocery_ecommerce_product_bottom_padding,
+li#customize-control-grocery_ecommerce_product_left_padding,
+li#customize-control-grocery_ecommerce_product_right_padding,
+li#customize-control-grocery_ecommerce_product_button_top_padding,
+li#customize-control-grocery_ecommerce_product_button_bottom_padding,
+li#customize-control-grocery_ecommerce_product_button_left_padding,
+li#customize-control-grocery_ecommerce_product_button_right_padding,
+li#customize-control-grocery_ecommerce_product_sale_top_padding,
+li#customize-control-grocery_ecommerce_product_sale_bottom_padding,
+li#customize-control-grocery_ecommerce_product_sale_left_padding,
+li#customize-control-grocery_ecommerce_product_sale_right_padding,
+li#customize-control-grocery_ecommerce_slider_top_position,
+li#customize-control-grocery_ecommerce_slider_bottom_position,
+li#customize-control-grocery_ecommerce_slider_left_position,
+li#customize-control-grocery_ecommerce_slider_right_position{
+	clear: none;
+	width: 22%;
+	margin-right: 10px;
+	text-align: center;
+}
+li#customize-control-grocery_ecommerce_right_button_padding,
+li#customize-control-grocery_ecommerce_product_right_padding,
+li#customize-control-grocery_ecommerce_product_button_right_padding,
+li#customize-control-grocery_ecommerce_product_sale_right_padding,
+li#customize-control-grocery_ecommerce_product_right_padding,
+li#customize-control-grocery_ecommerce_slider_right_position,
+li#customize-control-grocery_ecommerce_content_position{
+	margin: 0;
+}
+li#customize-control-grocery_ecommerce_top_button_padding label,
+li#customize-control-grocery_ecommerce_bottom_button_padding label,
+li#customize-control-grocery_ecommerce_left_button_padding label,
+li#customize-control-grocery_ecommerce_right_button_padding label{
+	font-weight: 500;
+	font-size: 13px;
+}
+input#_customize-input-grocery_ecommerce_button_padding,
+input#_customize-input-grocery_ecommerce_product_padding,
+input#_customize-input-grocery_ecommerce_product_button_padding,
+input#_customize-input-grocery_ecommerce_product_sale_padding
+input#_customize-input-grocery_ecommerce_content_position{
+	display: none;
+}
+li#customize-control-grocery_ecommerce_button_padding,
+li#customize-control-grocery_ecommerce_product_padding,
+li#customize-control-grocery_ecommerce_product_button_padding,
+li#customize-control-grocery_ecommerce_product_sale_padding{
+	margin-bottom: 0px;
+}
+
+li#customize-control-grocery_ecommerce_product_border_radius,
+li#customize-control-grocery_ecommerce_products_per_row,
+li#customize-control-grocery_ecommerce_product_button_border_radius{
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+}
+
+/*---- Input Range CSS ----*/
+input[type="range"] {
+	-webkit-appearance: none;
+    width: 80%;
+    margin: 12px 0;
+    background: #fff;
+    height: 6px;
+}
+input[type="range"]:focus{
+	outline: 0;
+}
+input[type=range]::-webkit-slider-thumb {
+	-webkit-appearance: none;
+	height: 20px;
+	width: 12px;
+	border-radius: 20px;
+	background: #0073aa;
+	cursor: pointer;
+	box-shadow: 1px 1px 4px #5c5757;
+}
+.cs-range-value {
+    float: right;
+    padding: 5px 8px;
+    border-radius: 4px;
+    font-size: 15px;
+    background: #fff;
+    border: 1px solid #7e8993;
+}
+
+/*---- coyright Input CSS ----*/
+li#customize-control-grocery_ecommerce_bottom_topbar_padding,
+li#customize-control-grocery_ecommerce_top_topbar_padding,
+li#customize-control-grocery_ecommerce_top_copyright_padding,
+li#customize-control-grocery_ecommerce_bottom_copyright_padding,
+li#customize-control-grocery_ecommerce_top_sticky_header_padding,
+li#customize-control-grocery_ecommerce_bottom_sticky_header_padding{
+	width: 46%;
+	margin-right: 10px;
+	clear: none;
+}
+input#_customize-input-grocery_ecommerce_topbar_padding,
+input#_customize-input-grocery_ecommerce_copyright_padding,
+input#_customize-input-grocery_ecommerce_content_position {
+    display: none;
+}
+li#customize-control-grocery_ecommerce_topbar_padding,
+li#customize-control-grocery_ecommerce_copyright_padding{
+	margin:0;
+}
+label.customize-control-title{
+	clear: both;
+}
+span#_customize-description-grocery_ecommerce_top_topbar_padding,
+span#_customize-description-grocery_ecommerce_bottom_topbar_padding,
+span#_customize-description-grocery_ecommerce_top_copyright_padding,
+span#_customize-description-grocery_ecommerce_bottom_copyright_padding,
+span#_customize-description-grocery_ecommerce_top_sticky_header_padding,
+span#_customize-description-grocery_ecommerce_bottom_sticky_header_padding{
+    font-weight: 600;
+}
+
+/* --------- Icon Selector Style --------- */
+.type-icon{
+  overflow: hidden;
+}
+li.customize-control-icon span.customize-control-title{
+  float: left;
+  width: 70%;
+  margin: 10px 0;
+}
+.selected-icon{
+  background: #fff;
+  height: 45px;
+  line-height: 45px;
+  border: 1px solid #ddd;
+  position: relative;
+  cursor: pointer;
+  font-size: 28px;
+  display: inline-block;
+  padding: 0 10px;
+}
+.selected-icon .fa{
+  display: block;
+  line-height: 45px;
+}
+.selected-icon span{
+  position: absolute;
+  background: #fff;
+  right: -30px;
+  top: -1px;
+  height: 45px;
+  width: 30px;
+  text-align: center;
+  border: 1px solid #ddd;
+  font-size: 20px;
+}
+.icon-list{
+	padding: 10px;
+	font-size: 18px;
+	border: 1px solid #EEE;
+	border-right: 0;
+	border-top: 0;
+	padding-bottom: 4%;
+	display: none;
+	cursor: pointer;
+	background: #fff;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	overflow-y: scroll;	
+	height: 215px;
+}
+.icon-list li{
+  float: left;
+  margin: 4% 3% 0;
+  height: 40px;
+  width: 18%;
+  text-align: center;
+  line-height: 40px;
+  border: 1px solid #EEE;
+}
+.icon-list li:hover{
+  background: #333;
+  border: 1px solid #333;
+  color: #FFF;
+}
+.icon-list li.icon-active{
+  background: #0073aa;
+  border: 1px solid #0073aa;
+  color: #FFF;
+}
+.social-icon-search{
+	padding: 10px 0;
+}
+.grocery-ecommerce-social-class{
+  display: none;
+}
+.socialInput{
+  padding: 10px;
+  font-size: 16px;
+}

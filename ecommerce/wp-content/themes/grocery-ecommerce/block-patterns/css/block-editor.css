@@ -1,0 +1,104 @@
+/*font family*/
+.sliderbox p,
+.sliderbox .block-editor-rich-text__editable.wp-block-button__link,
+.contact-details p,
+.services-section p {
+  font-family: 'Roboto', sans-serif;
+}
+.sliderbox h1,
+.contact-details h2,
+.services-section h2,
+.services-section h4 {
+  font-family: 'Muli', sans-serif;
+}
+/*banner section*/
+.banner-section a {
+  text-decoration: none !important;
+}
+.banner-section .wp-block-button__link{
+  font-size: 16px !important;
+  padding: 12px 20px !important;
+  color: #fff !important;
+  background: #0A472E !important;
+  border-radius: 5px !important;
+  font-weight: 600 !important;
+  display: inline-block !important;
+  margin-top: -5px !important;
+}
+.banner-section .wp-block-button__link:hover{
+  color: #fff !important;
+  background: #05A845 !important;
+}
+.banner-section .wp-block-paragraph{
+  margin-top: -6% !important;
+}
+.banner-section h2{
+  line-height: 44px !important;
+}
+/*Product section*/
+.product-section a {
+  text-decoration: none !important;
+}
+.product-section-product4 img {
+  float: left;
+}
+.product-box-section img {
+  position: relative;
+}
+.product-box-section .wc-block-grid__product-onsale {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background: #80891B;
+  color: #fff;
+  padding: 10px 20px;
+  line-height: 1;
+  font-size: 14px;
+  font-weight: 600;
+  right: auto !important;
+  border-radius: 0;
+  min-height: auto;
+  border-color: #80891B;
+}
+.product-box-section .wc-block-grid__product-title {
+  font-size: 18px !important;
+}
+.product-box-section .price {
+  font-size: 14px !important;
+}
+.product-box-section ul li .add_to_cart_button {
+  visibility: visible !important;
+  padding: 10px;
+  border-radius: 8px;
+  bottom: 0px;
+  left: 10px;
+  right: 10px;
+  text-transform: uppercase;
+  font-weight: 600;
+  background: #0A472E;
+}
+.product-box-section li {
+  border: 1px solid #dcdcdc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 20px !important;
+  flex: 0 0 22% !important;
+  margin: 0 12px !important;
+}
+.product-box-section .wc-block-grid__product-title {
+  font-size: 18px !important;
+  color: #000;
+}
+.product-box-section .price {
+  font-size: 14px !important;
+}
+.product-section h4 {
+  font-size: 13px;
+  font-weight: 500;
+}
+.product-section h2 {
+  font-size: 2rem;
+}
+.product-box-section .wc-block-grid__product-rating .star-rating{
+  color: #f0f013 !important;
+}

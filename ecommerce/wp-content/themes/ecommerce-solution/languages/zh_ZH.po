@@ -1,0 +1,1246 @@
+# <!=Copyright (C) 2018 Buy WP Templete
+# This file is distributed under the GNU General Public License.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Ecommerce Solution 1.8.1.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-28 15:32:59+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-07-26 09:30+0530\n"
+"Language-Team: \n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Language: zh\n"
+"X-Poedit-SearchPath-0: ../../ecommerce-solution\n"
+
+#: 404.php:11
+msgid "Not Found"
+msgstr "未找到"
+
+#: 404.php:12
+msgid "Looks like you have taken a wrong turn"
+msgstr "看来您走错了路"
+
+#: 404.php:13 no-results.php:18
+msgid "Dont worry it happens to the best of us."
+msgstr "不要担心，这对我们最好的人会发生。"
+
+#: 404.php:15 no-results.php:20 inc/customizer.php:2156
+msgid "Back to Home Page"
+msgstr "返回首页"
+
+#: page.php:26 template-parts/single-post:47
+msgid "Page"
+msgstr "页"
+
+#: comments.php:18
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "一种关于“％s”的想法"
+
+#: comments.php:29
+msgid "comments title"
+msgstr "评论标题"
+
+#: comments.php:60
+msgid "Comments are closed."
+msgstr "评论被关闭。"
+
+#: footer.php:11 footer.php:13 footer.php:15
+msgid "Scroll Up"
+msgstr "向上滚动"
+
+#: footer.php:59
+msgid "Copyright 2019"
+msgstr "版权2019"
+
+#: functions.php:28 header.php:166
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: functions.php:29 header.php:43
+msgid "Top Menu"
+msgstr "顶部菜单"
+
+#: functions.php:57
+msgid "Blog Sidebar"
+msgstr "博客侧栏"
+
+#: functions.php:58 functions.php:68 functions.php:78
+msgid "Appears on posts and pages"
+msgstr "出现在帖子和页面上"
+
+#: functions.php:67
+msgid "Posts and Pages Sidebar"
+msgstr "帖子和页面侧栏"
+
+#: functions.php:77
+msgid "Third Column Sidebar"
+msgstr "第三栏侧栏"
+
+#: functions.php:90
+msgid "Footer Widget"
+msgstr "页脚小部件"
+
+#: functions.php:332
+msgid "Ecommerce WordPress Theme"
+msgstr "电子商务WordPress主题"
+
+#: header.php:28
+msgid "Skip to content"
+msgstr "跳到内容"
+
+#: header.php:44 header.php:167
+msgid "Close Menu"
+msgstr "关闭选单"
+
+#: header.php:96 header.php:159
+msgid "Open Menu"
+msgstr "开启选单"
+
+#: header.php:106
+msgid "ALL CATEGORIES"
+msgstr "所有类别"
+
+#: header.php:143
+msgid "My Account"
+msgstr "我的帐户"
+
+#: header.php:146
+msgid "Login / Register"
+msgstr "登录/注册"
+
+#: header.php:181 header.php:193
+msgid "shopping cart"
+msgstr "购物车"
+
+#: header.php:181 header.php:193
+msgid "Cart item"
+msgstr "购物车项目"
+
+#: image.php:35 image.php:71 image.php:106 image.php:141 image.php:179
+#: image.php:217 image.php:254 page.php:23 template-parts/single-post:45
+msgid "Pages:"
+msgstr "页数："
+
+#: image.php:40 image.php:76 image.php:111 image.php:146 image.php:184
+#: image.php:222 image.php:259
+msgid "Edit"
+msgstr "编辑"
+
+#: no-results.php:9 inc/customizer.php:2166
+msgid "Nothing Found"
+msgstr "没有发现"
+
+#: no-results.php:13
+msgid "Ready to publish your first post? Get started here."
+msgstr "准备发布您的第一篇文章吗？从这里开始。"
+
+#: no-results.php:15 inc/customizer.php:2177
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "抱歉，没有符合您的搜索条件。请使用其他不同的关键字再试一次。"
+
+#: search.php:22 search.php:43 search.php:66 search.php:89 search.php:123
+#: search.php:144 search.php:166
+msgid "Results For: %s"
+msgstr "结果：％s"
+
+#: searchform.php:11 searchform.php:13 inc/customizer.php:1567
+msgid "Search"
+msgstr "搜索"
+
+#: searchform.php:11
+msgid "placeholder"
+msgstr "占位符"
+
+#: searchform.php:13
+msgid "submit button"
+msgstr "提交按钮"
+
+#: sidebar.php:10
+msgid "Archives"
+msgstr "档案"
+
+#: sidebar.php:16
+msgid "Meta"
+msgstr "元"
+
+#: inc/customizer.php:23
+msgid "Logo Sizer"
+msgstr "徽标大小"
+
+#: inc/customizer.php:39
+msgid "Enable / Disable Site Title"
+msgstr "启用/禁用网站标题"
+
+#: inc/customizer.php:49
+msgid "Site Title Font Size (px)"
+msgstr "网站标题字体大小（像素）"
+
+#: inc/customizer.php:64
+msgid "Enable / Disable Site Tagline"
+msgstr "启用/禁用网站标语"
+
+#: inc/customizer.php:74
+msgid "Site Tagline Font Size (px)"
+msgstr "网站标语字体大小（px）"
+
+#: inc/customizer.php:89
+msgid "Site logo inline with site title"
+msgstr "网站徽标与网站标题一致"
+
+#: inc/customizer.php:94
+msgid "Without Background"
+msgstr "无背景"
+
+#: inc/customizer.php:99
+msgid "Background Skin"
+msgstr "背景皮肤"
+
+#: inc/customizer.php:100
+msgid "Here you can add the background skin along with the background image."
+msgstr "在这里，您可以添加背景皮肤以及背景图像。"
+
+#: inc/customizer.php:103
+msgid "With Background Skin"
+msgstr "具有背景皮肤"
+
+#: inc/customizer.php:104
+msgid "Without Background Skin"
+msgstr "没有背景皮肤"
+
+#: inc/customizer.php:113
+msgid "Home Page Settings"
+msgstr "主页设置"
+
+#: inc/customizer.php:114
+msgid "Description of what this panel does."
+msgstr "此面板功能的说明。"
+
+#: inc/customizer.php:213
+msgid "Typography"
+msgstr "版式"
+
+#: inc/customizer.php:223
+msgid "Paragraph Color"
+msgstr "段落颜色"
+
+#: inc/customizer.php:236
+msgid "Paragraph Fonts"
+msgstr "段落字体"
+
+#: inc/customizer.php:246
+msgid "Paragraph Font Size"
+msgstr "段落字体大小"
+
+#: inc/customizer.php:258
+msgid "\"a\" Tag Color"
+msgstr "“ a”标签颜色"
+
+#: inc/customizer.php:271
+msgid "\"a\" Tag Fonts"
+msgstr "“ a”标签字体"
+
+#: inc/customizer.php:282
+msgid "\"li\" Tag Color"
+msgstr "“ li”标签颜色"
+
+#: inc/customizer.php:295
+msgid "\"li\" Tag Fonts"
+msgstr "“ li”标签字体"
+
+#: inc/customizer.php:306
+msgid "H1 Color"
+msgstr "H1颜色"
+
+#: inc/customizer.php:319
+msgid "H1 Fonts"
+msgstr "H1字体"
+
+#: inc/customizer.php:330
+msgid "H1 Font Size"
+msgstr "H1字体大小"
+
+#: inc/customizer.php:342
+msgid "h2 Color"
+msgstr "h2颜色"
+
+#: inc/customizer.php:356
+msgid "h2 Fonts"
+msgstr "h2字体"
+
+#: inc/customizer.php:367
+msgid "H2 Font Size"
+msgstr "H2字体大小"
+
+#: inc/customizer.php:379
+msgid "H3 Color"
+msgstr "H3颜色"
+
+#: inc/customizer.php:393
+msgid "H3 Fonts"
+msgstr "H3字体"
+
+#: inc/customizer.php:404
+msgid "H3 Font Size"
+msgstr "H3字体大小"
+
+#: inc/customizer.php:416
+msgid "H4 Color"
+msgstr "H4颜色"
+
+#: inc/customizer.php:429
+msgid "H4 Fonts"
+msgstr "H4字体"
+
+#: inc/customizer.php:440
+msgid "H4 Font Size"
+msgstr "H4字体大小"
+
+#: inc/customizer.php:452
+msgid "H5 Color"
+msgstr "H5颜色"
+
+#: inc/customizer.php:465
+msgid "H5 Fonts"
+msgstr "H5字体"
+
+#: inc/customizer.php:476
+msgid "H5 Font Size"
+msgstr "H5字体大小"
+
+#: inc/customizer.php:488
+msgid "H6 Color"
+msgstr "H6颜色"
+
+#: inc/customizer.php:501
+msgid "H6 Fonts"
+msgstr "H6字体"
+
+#: inc/customizer.php:512
+msgid "H6 Font Size"
+msgstr "H6字体大小"
+
+#: inc/customizer.php:520
+msgid "Layout Settings"
+msgstr "版面设置"
+
+#: inc/customizer.php:530
+msgid "Enable / Disable Preloader"
+msgstr "启用/禁用预加载器"
+
+#: inc/customizer.php:535 inc/customizer.php:543
+msgid "First Preloader Type"
+msgstr "第一预载机类型"
+
+#: inc/customizer.php:540
+msgid "Preloader Types"
+msgstr "预载器类型"
+
+#: inc/customizer.php:544
+msgid "Second Preloader Type"
+msgstr "第二种预载机类型"
+
+#: inc/customizer.php:553
+msgid "Preloader Background Color"
+msgstr "预加载器背景色"
+
+#: inc/customizer.php:562
+msgid "Preloader Icon Color"
+msgstr "预载器图标颜色"
+
+#: inc/customizer.php:567 inc/customizer.php:576 inc/customizer.php:830
+#: inc/customizer.php:837
+msgid "Default"
+msgstr "默认"
+
+#: inc/customizer.php:572
+msgid "Container Box"
+msgstr "货柜箱"
+
+#: inc/customizer.php:573
+msgid "Here you can change the Width layout."
+msgstr "在这里，您可以更改宽度布局。"
+
+#: inc/customizer.php:577
+msgid "Container Layout"
+msgstr "容器布局"
+
+#: inc/customizer.php:578
+msgid "Box Layout"
+msgstr "盒子布局"
+
+#: inc/customizer.php:584 inc/customizer.php:597 inc/customizer.php:1174
+#: inc/customizer.php:1184
+msgid "Right Sidebar"
+msgstr "右侧边栏"
+
+#: inc/customizer.php:589
+msgid "Select different post sidebar layout"
+msgstr "选择不同的帖子侧边栏布局"
+
+#: inc/customizer.php:592 inc/customizer.php:1182
+msgid "One Column"
+msgstr "一栏"
+
+#: inc/customizer.php:593
+msgid "Three Columns"
+msgstr "三栏"
+
+#: inc/customizer.php:594
+msgid "Four Columns"
+msgstr "四列"
+
+#: inc/customizer.php:595
+msgid "Grid Layout"
+msgstr "网格布局"
+
+#: inc/customizer.php:596 inc/customizer.php:1183
+msgid "Left Sidebar"
+msgstr "左侧边栏"
+
+#: inc/customizer.php:602 inc/customizer.php:610
+msgid "Sidebar 1/3"
+msgstr "侧边栏1/3"
+
+#: inc/customizer.php:611
+msgid "Sidebar 1/4"
+msgstr "侧边栏1/4"
+
+#: inc/customizer.php:607
+msgid "Sidebar Size Option"
+msgstr "边栏尺寸选项"
+
+#: inc/customizer.php:620
+msgid "Featured Image Border Radius"
+msgstr "特色图片边框半径"
+
+#: inc/customizer.php:638
+msgid "Featured Image Shadow"
+msgstr "特色影像阴影"
+
+#: inc/customizer.php:650
+msgid "Theme Color Option"
+msgstr "主题颜色选项"
+
+#: inc/customizer.php:659
+msgid "Highlight Color"
+msgstr "突出显示颜色"
+
+#: inc/customizer.php:666
+msgid "Post General Settings"
+msgstr "发布常规设置"
+
+#: inc/customizer.php:671
+msgid "Layout 1"
+msgstr "版式1"
+
+#: inc/customizer.php:676
+msgid "Post Layouts"
+msgstr "帖子布局"
+
+#: inc/customizer.php:676
+msgid "Here you can change the 3 different layouts of post"
+msgstr "在这里您可以更改帖子的3种不同的布局"
+
+#: inc/customizer.php:691 inc/customizer.php:1061
+msgid "Enable / Disable Date"
+msgstr "启用/禁用日期"
+
+#: inc/customizer.php:701
+msgid "Post Date Icon"
+msgstr "发布日期图标"
+
+#: inc/customizer.php:713 inc/customizer.php:1083
+msgid "Enable / Disable Author"
+msgstr "启用/禁用作者"
+
+#: inc/customizer.php:723
+msgid "Post Author Icon"
+msgstr "帖子作者图标"
+
+#: inc/customizer.php:735 inc/customizer.php:1105
+msgid "Enable / Disable Comments"
+msgstr "启用/禁用评论"
+
+#: inc/customizer.php:745
+msgid "Post Comment Icon"
+msgstr "发表评论图标"
+
+#: inc/customizer.php:757 inc/customizer.php:1137
+msgid "Enable / Disable Time"
+msgstr "启用/禁用时间"
+
+#: inc/customizer.php:767
+msgid "Post Time Icon"
+msgstr "发布时间图标"
+
+#: inc/customizer.php:774 inc/customizer.php:781
+msgid "Image"
+msgstr "图片"
+
+#: inc/customizer.php:779
+msgid "Post Image Options"
+msgstr "发布图片选项"
+
+#: inc/customizer.php:782
+msgid "Color"
+msgstr "颜色"
+
+#: inc/customizer.php:783
+msgid "None"
+msgstr "没有"
+
+#: inc/customizer.php:793
+msgid "Post Color"
+msgstr "张贴颜色"
+
+#: inc/customizer.php:804
+msgid "Color Post Custom Width"
+msgstr "彩色柱子自定义宽度"
+
+#: inc/customizer.php:819
+msgid "Color Post Custom Height"
+msgstr "彩色柱子自定义高度"
+
+#: inc/customizer.php:835
+msgid "Post Featured Image Dimention"
+msgstr "发布特色图片尺寸"
+
+#: inc/customizer.php:838
+msgid "Custom"
+msgstr "自订"
+
+#: inc/customizer.php:849
+msgid "Post Featured Image Custom Width"
+msgstr "发布特色图片自定义宽度"
+
+#: inc/customizer.php:864
+msgid "Post Featured Image Custom Height"
+msgstr "发布特色图片自定义高度"
+
+#: inc/customizer.php:883
+msgid "Blog Post Content Limit"
+msgstr "博客文章内容限制"
+
+#: inc/customizer.php:895 inc/customizer.php:903
+msgid "Excerpt"
+msgstr "摘抄"
+
+#: inc/customizer.php:900
+msgid "Content Settings"
+msgstr "内容设置"
+
+#: inc/customizer.php:904
+msgid "Content"
+msgstr "内容"
+
+#: inc/customizer.php:909
+msgid "[...]"
+msgstr "[...]"
+
+#: inc/customizer.php:913
+msgid "Post Excerpt Suffix"
+msgstr "摘录后缀"
+
+#: inc/customizer.php:924
+msgid "Meta Box"
+msgstr "元框"
+
+#: inc/customizer.php:926 inc/customizer.php:1195
+msgid ""
+"Here you can add the seperator for meta box. e.g. \"|\",  \",\", \"/\", etc."
+msgstr "在这里您可以添加分隔符的元框。例如“ |”，“，”，“ /”等。"
+
+#: inc/customizer.php:932 template-parts/custom-audio.php:61
+#: template-parts/custom-gallery.php:51 template-parts/custom-image.php:45
+#: template-parts/custom-video.php:61 template-parts/grid-layout.php:25
+msgid "View More"
+msgstr "查看更多"
+
+#: inc/customizer.php:936
+msgid "Add Button Text"
+msgstr "添加按钮文字"
+
+#: inc/customizer.php:947
+msgid "Button Icon"
+msgstr "按钮图示"
+
+#: inc/customizer.php:959 inc/customizer.php:2334
+msgid "Button Top Bottom Padding (px)"
+msgstr "按钮顶部底部填充（像素）"
+
+#: inc/customizer.php:974 inc/customizer.php:2349
+msgid "Button Right Left Padding (px)"
+msgstr "按钮右左填充（px）"
+
+#: inc/customizer.php:989 inc/customizer.php:2364
+msgid "Button Border Radius (px)"
+msgstr "按钮边框半径（像素）"
+
+#: inc/customizer.php:1004
+msgid "Enable / Disable Blog Page Pagination"
+msgstr "启用/禁用博客页面分页"
+
+#: inc/customizer.php:1009 inc/customizer.php:1018
+msgid "Bottom"
+msgstr "底部"
+
+#: inc/customizer.php:1015
+msgid "Post Pagination Position"
+msgstr "分页后位置"
+
+#: inc/customizer.php:1017
+msgid "Top"
+msgstr "最佳"
+
+#: inc/customizer.php:1019
+msgid "Both Top & Bottom"
+msgstr "顶部和底部"
+
+#: inc/customizer.php:1023 inc/customizer.php:1031
+msgid "Numeric Pagination"
+msgstr "数字分页"
+
+#: inc/customizer.php:1029
+msgid "Post Pagination"
+msgstr "分页后"
+
+#: inc/customizer.php:1032
+msgid "Next / Previous"
+msgstr "下一个/上一个"
+
+#: inc/customizer.php:1036 inc/customizer.php:1044
+msgid "By Block"
+msgstr "按块"
+
+#: inc/customizer.php:1041
+msgid "Blog Post Shown"
+msgstr "显示的博客文章"
+
+#: inc/customizer.php:1045
+msgid "By Without Block"
+msgstr "无障碍"
+
+#: inc/customizer.php:1051
+msgid "Single Post Settings"
+msgstr "单发设置"
+
+#: inc/customizer.php:1071
+msgid "Single Post Date Icon"
+msgstr "单发日期图标"
+
+#: inc/customizer.php:1093
+msgid "Single Post Author Icon"
+msgstr "单发作者图标"
+
+#: inc/customizer.php:1115
+msgid "Single Post Comment Ico"
+msgstr "单一评论Ico"
+
+#: inc/customizer.php:1127
+msgid "Enable / Disable Tags"
+msgstr "启用/禁用标签"
+
+#: inc/customizer.php:1147
+msgid "Single Post Time Icon"
+msgstr "单发时间图标"
+
+#: inc/customizer.php:1159
+msgid "Enable / Disable post comment"
+msgstr "启用/禁用评论"
+
+#: inc/customizer.php:1169
+msgid "Enable / Disable Featured image"
+msgstr "启用/禁用精选图片"
+
+#: inc/customizer.php:1179
+msgid "Select different Single post sidebar layout"
+msgstr "选择不同的单个帖子侧栏布局"
+
+#: inc/customizer.php:1193
+msgid "Single Post Meta Box Seperator"
+msgstr "单邮政元框分隔符"
+
+#: inc/customizer.php:1206
+msgid "Comment Form Width"
+msgstr "评论表格宽度"
+
+#: inc/customizer.php:1216
+msgid "Leave a Reply"
+msgstr "发表评论"
+
+#: inc/customizer.php:1221
+msgid "Comment Form Heading Text"
+msgstr "评论表格标题文字"
+
+#: inc/customizer.php:1226
+msgid "Post Comment"
+msgstr "发表评论"
+
+#: inc/customizer.php:1231
+msgid "Comment Form Button Text"
+msgstr "评论表单按钮文字"
+
+#: inc/customizer.php:1241
+msgid "Enable / Disable Single Post Pagination"
+msgstr "启用/禁用单后分页"
+
+#: inc/customizer.php:1247
+msgid "Related Post Settings"
+msgstr "相关帖子设置"
+
+#: inc/customizer.php:1257
+msgid "Enable / Disable Related Post"
+msgstr "启用/禁用相关帖子"
+
+#: inc/customizer.php:1266
+msgid "Add Section Title"
+msgstr "添加板块标题"
+
+#: inc/customizer.php:1278
+msgid "Related Post Count"
+msgstr "相关职位数"
+
+#: inc/customizer.php:1289 inc/customizer.php:1297
+msgid "categories"
+msgstr "类别"
+
+#: inc/customizer.php:1294
+msgid "Post Taxonomies"
+msgstr "分类后"
+
+#: inc/customizer.php:1298
+msgid "Tags"
+msgstr "标签"
+
+#: inc/customizer.php:1308
+msgid "Content Limit"
+msgstr "内容限制"
+
+#: inc/customizer.php:1319
+msgid "Topbar"
+msgstr "顶栏"
+
+#: inc/customizer.php:1320
+msgid "Add contact us here"
+msgstr "在此处添加与我们联​​系"
+
+#: inc/customizer.php:1330
+msgid "Menu Font Size"
+msgstr "菜单字体大小"
+
+#: inc/customizer.php:1344
+msgid "Main Menu Padding"
+msgstr "主菜单填充"
+
+#: inc/customizer.php:1357 inc/customizer.php:1362
+msgid "Uppercase"
+msgstr "大写"
+
+#: inc/customizer.php:1359
+msgid "Menu Text Transform"
+msgstr "菜单文字转换"
+
+#: inc/customizer.php:1363
+msgid "Lowercase"
+msgstr "小写"
+
+#: inc/customizer.php:1364
+msgid "Capitalize"
+msgstr "大写"
+
+#: inc/customizer.php:1369 inc/customizer.php:1377
+msgid "Bold"
+msgstr "胆大"
+
+#: inc/customizer.php:1374
+msgid "Menu Font Weight"
+msgstr "菜单字体粗细"
+
+#: inc/customizer.php:1378
+msgid "Normal"
+msgstr "正常"
+
+#: inc/customizer.php:1389
+msgid "Enable / Disable Sticky Header"
+msgstr "启用/禁用粘性标题"
+
+#: inc/customizer.php:1398
+msgid "Sticky Header Padding"
+msgstr "粘页眉填充"
+
+#: inc/customizer.php:1414
+msgid "Phone Icon"
+msgstr "电话图标"
+
+#: inc/customizer.php:1425
+msgid "Add phone number"
+msgstr "添加电话号码"
+
+#: inc/customizer.php:1436
+msgid "Enable / Disable Search & Category"
+msgstr "启用/禁用搜索和类别"
+
+#: inc/customizer.php:1446
+msgid "Enable / Disable My Account"
+msgstr "启用/禁用我的帐户"
+
+#: inc/customizer.php:1456
+msgid "Enable / Disable Cart"
+msgstr "启用/禁用购物车"
+
+#: inc/customizer.php:1466
+msgid "Enable / Disable Sticky Cart"
+msgstr "启用/禁用粘车"
+
+#: inc/customizer.php:1476
+msgid "Category Icon"
+msgstr "分类图标"
+
+#: inc/customizer.php:1488
+msgid "Category Show Down Icon"
+msgstr "分类显示图标"
+
+#: inc/customizer.php:1500
+msgid "Category List Icon"
+msgstr "类别列表图标"
+
+#: inc/customizer.php:1512
+msgid "My Account Icon"
+msgstr "我的帐户图标"
+
+#: inc/customizer.php:1524
+msgid "Login / Register Icon"
+msgstr "登录/注册图标"
+
+#: inc/customizer.php:1536
+msgid "Cart Icon"
+msgstr "购物车图标"
+
+#: inc/customizer.php:1548
+msgid "Responsive Open Menu Icon"
+msgstr "响应式打开菜单图标"
+
+#: inc/customizer.php:1560
+msgid "Responsive Close Menu Icon"
+msgstr "响应式关闭菜单图标"
+
+#: inc/customizer.php:1572
+msgid "Search Placeholder Option"
+msgstr "搜索占位符选项"
+
+#: inc/customizer.php:1578
+msgid "Slider Section"
+msgstr "滑块部分"
+
+#: inc/customizer.php:1589
+msgid "Enable / Disable slider"
+msgstr "启用/禁用滑块"
+
+#: inc/customizer.php:1600
+msgid "Select Slide Image Page"
+msgstr "选择幻灯片图像页面"
+
+#: inc/customizer.php:1601
+msgid "Slider image size (1500 x 600)"
+msgstr "滑块图像尺寸（1500 x 600）"
+
+#: inc/customizer.php:1615
+msgid "Enable / Disable Slider Heading"
+msgstr "启用/禁用滑块标题"
+
+#: inc/customizer.php:1625
+msgid "Enable / Disable Slider Text"
+msgstr "启用/禁用滑块文本"
+
+#: inc/customizer.php:1635
+msgid "Enable / Disable Slider Button"
+msgstr "启用/禁用滑块按钮"
+
+#: inc/customizer.php:1645
+msgid "Enable / Disable Slider Image Overlay"
+msgstr "启用/禁用滑块图像叠加"
+
+#: inc/customizer.php:1654
+msgid "Slider Image Overlay Color"
+msgstr "滑块图像叠加颜色"
+
+#: inc/customizer.php:1660 page-template/home-page.php:41
+msgid "SHOP NOW"
+msgstr "现在去购物"
+
+#: inc/customizer.php:1664
+msgid "Slider Button Text"
+msgstr "滑块按钮文字"
+
+#: inc/customizer.php:1671 inc/customizer.php:1680 inc/customizer.php:2324
+msgid "Left"
+msgstr "剩下"
+
+#: inc/customizer.php:1676
+msgid "Slider Content Layout"
+msgstr "滑块内容布局"
+
+#: inc/customizer.php:1679 inc/customizer.php:1949 inc/customizer.php:1959
+msgid "Center"
+msgstr "中央"
+
+#: inc/customizer.php:1681 inc/customizer.php:2315 inc/customizer.php:2323
+msgid "Right"
+msgstr "对"
+
+#: inc/customizer.php:1686
+msgid "550"
+msgstr "550"
+
+#: inc/customizer.php:1690
+msgid "Slider Height"
+msgstr "滑块高度"
+
+#: inc/customizer.php:1700
+msgid "Top Bottom Slider Content Spacing"
+msgstr "顶部底部滑块内容间距"
+
+#: inc/customizer.php:1714
+msgid "Left Right Slider Content Spacing"
+msgstr "左右滑块内容间距"
+
+#: inc/customizer.php:1731
+msgid "Slider Content Limit"
+msgstr "滑块内容限制"
+
+#: inc/customizer.php:1748
+msgid "Slider Image Opacity"
+msgstr "滑块图像不透明度"
+
+#: inc/customizer.php:1773
+msgid "Slider Slide Speed"
+msgstr "滑块滑块速度"
+
+#: inc/customizer.php:1784
+msgid "New Collection"
+msgstr "新系列"
+
+#: inc/customizer.php:1794
+msgid "Select product Page"
+msgstr "选择产品页面"
+
+#: inc/customizer.php:1802
+msgid "Footer Text"
+msgstr "页脚文字"
+
+#: inc/customizer.php:1811
+msgid "Footer Background Color"
+msgstr "页脚背景颜色"
+
+#: inc/customizer.php:1820
+msgid "Footer Background Image"
+msgstr "页脚背景图片"
+
+#: inc/customizer.php:1830
+msgid "Footer widget area"
+msgstr "页脚小部件区域"
+
+#: inc/customizer.php:1832
+msgid ""
+"Select the number of widget areas you want in the footer. After that, go to "
+"Appearance > Widgets and add your widgets"
+msgstr "在页脚中选择所需的小部件区域数。之后，转到外观>小部件并添加小部件"
+
+#: inc/customizer.php:1834 inc/customizer.php:2560
+msgid "One"
+msgstr "一"
+
+#: inc/customizer.php:1835 inc/customizer.php:2561
+msgid "Two"
+msgstr "二"
+
+#: inc/customizer.php:1836 inc/customizer.php:2562
+msgid "Three"
+msgstr "三"
+
+#: inc/customizer.php:1837 inc/customizer.php:2563
+msgid "Four"
+msgstr "四个"
+
+#: inc/customizer.php:1847
+msgid "Enable / Disable Back To Top"
+msgstr "启用/禁用返回页首"
+
+#: inc/customizer.php:1857
+msgid "Back to Top Icon"
+msgstr "返回页首图标"
+
+#: inc/customizer.php:1869
+msgid "Back To Top Icon Font Size"
+msgstr "返回页首图标字体大小"
+
+#: inc/customizer.php:1879 inc/customizer.php:1888 inc/customizer.php:1958
+msgid "Right align"
+msgstr "右对齐"
+
+#: inc/customizer.php:1884
+msgid "Back To Top Alignment"
+msgstr "返回页首对齐"
+
+#: inc/customizer.php:1887 inc/customizer.php:1957
+msgid "Left align"
+msgstr "左对齐"
+
+#: inc/customizer.php:1889 #: inc/customizer.php:1959
+msgid "Center align"
+msgstr "居中对齐"
+
+#: inc/customizer.php:1899
+msgid "Top Bottom Scroll Padding (px)"
+msgstr "顶部底部滚动填充（px）"
+
+#: inc/customizer.php:1914
+msgid "Left Right Scroll Padding (px)"
+msgstr "左右滚动填充（px）"
+
+#: inc/customizer.php:1928
+msgid "Back to Top Border Radius (px)"
+msgstr "返回页首边框半径（px）"
+
+#: inc/customizer.php:1942
+msgid "Copyright Text"
+msgstr "版权文字"
+
+#: inc/customizer.php:1944
+msgid "Add some text for footer like copyright etc."
+msgstr "为页脚添加一些文本，例如版权等。"
+
+#: inc/customizer.php:1954
+msgid "Copyright Text Alignment"
+msgstr "版权文字对齐"
+
+#: inc/customizer.php:1969
+msgid "Copyright Font Size (px)"
+msgstr "版权字体大小（px）"
+
+#: inc/customizer.php:1984
+msgid "Copyright Text Padding (px)"
+msgstr "版权文字填充（px）"
+
+#: inc/customizer.php:1995
+msgid "Responsive Media"
+msgstr "响应媒体"
+
+#: inc/customizer.php:2005
+msgid "Display Post Date"
+msgstr "显示发布日期"
+
+#: inc/customizer.php:2015
+msgid "Display Post Author"
+msgstr "显示帖子作者"
+
+#: inc/customizer.php:2025
+msgid "Display Post Comment"
+msgstr "显示帖子评论"
+
+#: inc/customizer.php:2035
+msgid "Display Post Time"
+msgstr "显示发布时间"
+
+#: inc/customizer.php:2045
+msgid "Display Slider"
+msgstr "显示滑块"
+
+#: inc/customizer.php:2055
+msgid "Display Slider Button"
+msgstr "显示滑块按钮"
+
+#: inc/customizer.php:2065
+msgid "Display Sidebar"
+msgstr "显示侧边栏"
+
+#: inc/customizer.php:2075
+msgid "Display Scroll To Top"
+msgstr "显示滚动到顶部"
+
+#: inc/customizer.php:2085
+msgid "Display Sticky Header"
+msgstr "显示粘页眉"
+
+#: inc/customizer.php:2095
+msgid "Display Preloader"
+msgstr "显示预加载器"
+
+#: inc/customizer.php:2105
+msgid "Display Search & Category"
+msgstr "显示搜索和类别"
+
+#: inc/customizer.php:2115
+msgid "Display My Account"
+msgstr "显示我的帐户"
+
+#: inc/customizer.php:2125
+msgid "Display Cart"
+msgstr "展示车"
+
+#: inc/customizer.php:2131
+msgid "404 Page Not Found / No Result"
+msgstr "找不到404页/无结果"
+
+#: inc/customizer.php:2136
+msgid "404 Not Found"
+msgstr "找不到404"
+
+#: inc/customizer.php:2140
+msgid "404 Heading"
+msgstr "404标题"
+
+#: inc/customizer.php:2146
+msgid ""
+"Looks like you have taken a wrong turn. Dont worry it happens to the best of "
+"us."
+msgstr "看来您走错了路。不要担心，这对我们最好的人会发生。"
+
+#: inc/customizer.php:2150
+msgid "404 Content"
+msgstr "404内容"
+
+#: inc/customizer.php:2160
+msgid "404 Button"
+msgstr "404按钮"
+
+#: inc/customizer.php:2170
+msgid "No Search Results Heading"
+msgstr "没有搜索结果标题"
+
+#: inc/customizer.php:2171
+msgid "The search page heading display when no results are found."
+msgstr "未找到结果时显示搜索页面标题。"
+
+#: inc/customizer.php:2181
+msgid "No Search Results Text"
+msgstr "没有搜索结果文字"
+
+#: inc/customizer.php:2182
+msgid "The search page text display when no results are found."
+msgstr "未找到结果时显示搜索页面文本。"
+
+#: inc/customizer.php:2189
+msgid "Woocommerce Settings"
+msgstr "Woocommerce设置"
+
+#: inc/customizer.php:2190
+msgid "The below settings are apply on woocommerce pages."
+msgstr "以下设置适用于woocommerce页面。"
+
+#: inc/customizer.php:2204
+msgid "Product per columns"
+msgstr "每列产品"
+
+#: inc/customizer.php:2220
+msgid "Product per page"
+msgstr "每页产品"
+
+#: inc/customizer.php:2231
+msgid "Enable / Disable shop page sidebar"
+msgstr "启用/禁用商店页面侧边栏"
+
+#: inc/customizer.php:2241
+msgid "Enable / Disable product page sidebar"
+msgstr "启用/禁用产品页面侧边栏"
+
+#: inc/customizer.php:2251
+msgid "Enable / Disable Related product"
+msgstr "启用/禁用相关产品"
+
+#: inc/customizer.php:2260
+msgid "Woocommerce Product Sale Border Radius"
+msgstr "Woocommerce产品销售边界半径"
+
+#: inc/customizer.php:2275
+msgid "Woocommerce Product Sale Font Size"
+msgstr "Woocommerce产品销售字体大小"
+
+#: inc/customizer.php:2289
+msgid "Woocommerce Product Sale Top Bottom Padding"
+msgstr "Woocommerce产品销售顶部底部填充"
+
+#: inc/customizer.php:2304
+msgid "Woocommerce Product Sale Left Right Padding"
+msgstr "Woocommerce产品销售左右填充"
+
+#: inc/customizer.php:2320
+msgid "Woocommerce Product Sale Position"
+msgstr "Woocommerce产品销售职位"
+
+#: inc/customizer.php:2379
+msgid "Enable / Disable product border"
+msgstr "启用/禁用产品边框"
+
+#: inc/customizer.php:2389
+msgid "Product Top Bottom Padding (px)"
+msgstr "产品顶部底部填充（像素）"
+
+#: inc/customizer.php:2404
+msgid "Product Right Left Padding (px)"
+msgstr "产品右左填充（px）"
+
+#: inc/customizer.php:2419
+msgid "Product Border Radius (px)"
+msgstr "产品边界半径（px）"
+
+#: inc/customizer.php:2434
+msgid "Product Box Shadow (px)"
+msgstr "产品框阴影（px）"
+
+#: inc/customizer.php:2444 inc/customizer.php:2451
+msgid "Yes"
+msgstr "是"
+
+#: inc/customizer.php:2449
+msgid "Shop Page Products Navigation"
+msgstr "商店页面产品导航"
+
+#: inc/customizer.php:2452
+msgid "No"
+msgstr "没有"
+
+#: inc/customizer.php:2535
+msgid "Ecommerce Pro"
+msgstr "电子商务专业版"
+
+#: inc/customizer.php:2536
+msgid "Go Pro"
+msgstr "专业版"
+
+#: template-parts/single-post:26
+msgid "0 Comment"
+msgstr "0条留言"
+
+#: template-parts/single-post.php:26
+msgid "% Comment"
+msgstr "％评论"
+
+#: template-parts/single-post:56
+msgid "Parent post link"
+msgstr "父帖子链接"
+
+#: template-parts/single-post:62
+msgid "Next post:"
+msgstr "下一篇："
+
+#: template-parts/single-post:65
+msgid "Previous post:"
+msgstr "上一篇："
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout"
+msgstr "您必须先登录才能结帐"
+
+#: woocommerce/checkout/form-checkout.php:54
+msgid "Your order"
+msgstr "您的订单"

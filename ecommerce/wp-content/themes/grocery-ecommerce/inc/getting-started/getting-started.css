@@ -1,0 +1,165 @@
+    /*About theme*/
+.appearance_page_grocery_ecommerce_guide #wpwrap{
+	background: #fff;
+    color: #333;
+}
+.col-left{
+	width: 61%;
+	float: left;
+	padding: 0 20px;
+}
+.col-right{
+	width: 33%;
+	float: right;
+}
+.col-right img{
+	width: 100%;
+}
+.wrapper-info h3 {
+    text-transform: uppercase;
+    color: #0d83dd;
+    font-size: 18px;
+}
+.wrapper-info h4 {
+    margin: 0;
+    color: #333;
+    font-size: 15px;
+}
+.wrapper-info a {
+    text-decoration: none;
+}
+#wpcontent, #wpfooter {
+    margin-right: 20px;
+}
+.centerbold a {
+    color: #fff;
+    padding: 9px;
+    text-decoration: none;
+    margin-right: 5px;
+    font-size: 14px;
+    background: #0d83dd;
+    transition: 0.3s;
+}
+.centerbold a:hover {
+    background: #2e2e2e;
+}
+.centerbold {
+    text-align: center;
+}
+.secondhr{
+    margin-top: 20px;
+}
+.firsthr{
+    margin-bottom:20px;
+}
+.col-left p {
+    color: #2e2e2e;
+    font-size: 14px;
+    text-align: justify;
+}
+
+.col-left-inner img {
+    width: 100%;
+    margin-bottom: 15px;
+    border: solid 1px #ccc;
+}
+.started {
+    float: left;
+    width: 100%;
+}
+.intro-text img {
+    float:left; 
+    box-shadow: 0 0 15px 0px #ddd;
+    background: #fff;
+}
+.coupon-code {
+    float: right;
+    width: 58%;
+    font-size: 20px;
+    color: #fff;
+    line-height: 30px;
+    padding: 12px 5px;
+}
+.coupon-code span {
+    color: #e6f04e;
+    font-size: 24px;
+    font-weight: bold;
+}
+img.table-img {
+    width: 100%;
+}
+.col-left-inner {
+    width: 100%;
+    float: left;
+}
+.col-right-inner {
+    width: 100%;
+    float: right;
+}
+.feature{
+    float: left;
+    width: 100%;
+}
+.col-md-3 {
+    width: 25%;
+    float: left;
+}
+.service {
+    width: 100%;
+    float: left;
+    border-top: solid 1px #ccc;
+}
+.started ul {
+    list-style: disc;
+    font-size: 15px;
+    margin-left: 30px;
+}
+.col-right ul {
+}
+.col-right li {
+    list-style: none;
+    border: 1px solid #ccc;
+    padding: 7px 0;
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+.col-right li:before {
+    content: "\f139";
+    font-family: dashicons;
+    color: #0074D9;
+    margin-right: 5px;
+    font-size: 18px;
+    position: relative;
+    top: 3px;
+    animation: blink 1s linear infinite;
+}
+.color_bg_blue {
+    background-color: #0d83dd;
+    display: block;
+    float: left;
+    padding: 15px 0 35px 35px;
+    width: 95%;
+}
+.color_bg_blue p {
+    color: #fff;
+}
+.color_bg_blue h4 {
+    color: #fff;
+    margin-bottom: 25px;
+}
+.blink {
+    width:100%;
+    text-align: left;
+}
+.blink h4{
+    font-size: 18px;
+    color: white;
+    animation: blink 1s linear infinite;
+    color: #FFFFFF;
+    letter-spacing: 1px;
+}
+@keyframes blink {
+    0%{opacity: 0;}
+    50%{opacity: .5;}
+    100%{opacity: 1;}
+}

@@ -1,0 +1,907 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WOWMALL\n"
+"POT-Creation-Date: 2021-10-01 14:13-0300\n"
+"PO-Revision-Date: 2021-10-01 14:13-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: .delete\n"
+"X-Poedit-SearchPathExcluded-2: .developer\n"
+"X-Poedit-SearchPathExcluded-3: .git\n"
+"X-Poedit-SearchPathExcluded-4: .patterns\n"
+
+#: functions.php:23 index.php:4
+#, fuzzy
+msgid ""
+"Wowmall is an experimental full site editing theme that requires the "
+"Gutenberg plugin. Activate the plugin to view the theme."
+msgstr ""
+"Wowmall es un tema experimental de edición de sitio completo que requiere el "
+"complemento Gutenberg. Activa el plugin para ver el tema."
+
+#: lib/admin/classes/menu.php:32 lib/admin/classes/menu.php:33
+msgid "Welcome"
+msgstr "Bienvenido"
+
+#: lib/admin/classes/menu.php:45 lib/admin/classes/menu.php:46
+msgid "Setup"
+msgstr "Configuración"
+
+#: lib/admin/menu/header.php:34
+#, fuzzy
+msgid ""
+"This is the first release of an experimental full site editing theme for "
+"WooCommerce. "
+msgstr ""
+"Esta es la primera versión de un tema experimental de edición de sitio "
+"completo para WooCommerce. "
+
+#: lib/admin/menu/header.php:35
+#, fuzzy
+msgid ""
+"Please do not use this theme on a production site because templates, block "
+"patterns and block styles may change in future versions."
+msgstr ""
+"No utilice este tema en un sitio de producción porque las plantillas, los "
+"patrones de bloque y los estilos de bloque pueden cambiar en versiones "
+"futuras."
+
+#: lib/admin/menu/header.php:38
+msgid "Demo"
+msgstr "Demo"
+
+#: lib/admin/menu/header.php:39
+msgid "Documentation"
+msgstr "Documentación"
+
+#: lib/admin/menu/setup.php:3
+#, fuzzy
+msgid ""
+"These instructions were written for Gutenberg 11.6 if you are using a "
+"different version, the UI might look different."
+msgstr ""
+"Estas instrucciones se escribieron para Gutenberg 11.6 Si está utilizando "
+"una versión diferente, la interfaz de usuario podría tener un aspecto "
+"diferente."
+
+#: lib/admin/menu/setup.php:7
+#, fuzzy
+msgid "How to open Gutenberg editor?"
+msgstr "¿Cómo abrir el editor de Gutenberg?"
+
+#: lib/admin/menu/setup.php:9
+#, fuzzy
+msgid ""
+"Currently, there are two ways to access the Gutenberg editor, the site "
+"editor and the template editor."
+msgstr ""
+"Actualmente, hay dos formas de acceder al editor de Gutenberg, el editor del "
+"sitio y el editor de plantillas."
+
+#: lib/admin/menu/setup.php:14
+#, fuzzy
+msgid "Site Editor"
+msgstr "Editor del sitio"
+
+#: lib/admin/menu/setup.php:17
+#, fuzzy
+msgid "You can access the site editor through the WordPress admin area:"
+msgstr ""
+"Puede acceder al editor del sitio a través del área de administración de "
+"WordPress:"
+
+#: lib/admin/menu/setup.php:20
+#, fuzzy
+msgid ""
+"The site editor menu is above the Appearance menu in the WordPress admin."
+msgstr ""
+"El menú del editor del sitio está encima del menú Apariencia en el "
+"administrador de WordPress."
+
+#: lib/admin/menu/setup.php:25
+#, fuzzy
+msgid "Template Editor"
+msgstr "Editor de plantillas"
+
+#: lib/admin/menu/setup.php:28
+#, fuzzy
+msgid ""
+"In the block editor, the template edit link is found in the post/page "
+"settings sidebar under Status and Visibility:"
+msgstr ""
+"En el editor de bloques, el enlace de edición de plantilla se encuentra en "
+"la barra lateral de configuración de publicación / página en Estado y "
+"visibilidad:"
+
+#: lib/admin/menu/setup.php:31
+#, fuzzy
+msgid ""
+"The select field where you can select the template for the current page."
+msgstr ""
+"El campo de selección donde puede seleccionar la plantilla para la página "
+"actual."
+
+#: lib/admin/menu/setup.php:37
+#, fuzzy
+msgid "How to edit header and footer?"
+msgstr "¿Cómo editar el encabezado y el pie de página?"
+
+#: lib/admin/menu/setup.php:39
+#, fuzzy
+msgid ""
+"The header and footer can be edited in either the site editor or the block "
+"editor."
+msgstr ""
+"El encabezado y el pie de página se pueden editar en el editor del sitio o "
+"en el editor de bloques."
+
+#: lib/admin/menu/setup.php:42
+#, fuzzy
+msgid ""
+"If you are not already familiar with the site editor, then the second option "
+"may be easier."
+msgstr ""
+"Si aún no está familiarizado con el editor del sitio, entonces la segunda "
+"opción puede ser más fácil."
+
+#: lib/admin/menu/setup.php:47
+#, fuzzy
+msgid "First, open the editor that you prefer:"
+msgstr "Primero, abra el editor que prefiera:"
+
+#: lib/admin/menu/setup.php:52
+#, fuzzy
+msgid "Next, open the list view feature."
+msgstr "A continuación, abra la función de vista de lista."
+
+#: lib/admin/menu/setup.php:55
+#, fuzzy
+msgid ""
+"The list view can be opened from the top toolbar. It looks a little bit "
+"different depending on which editor you selected."
+msgstr ""
+"La vista de lista se puede abrir desde la barra de herramientas superior. Se "
+"ve un poco diferente dependiendo del editor que haya seleccionado."
+
+#: lib/admin/menu/setup.php:58
+#, fuzzy
+msgid ""
+"It is a list of all the blocks on the page. If you want to change the "
+"header, click on the item in the list that says \"Header\":"
+msgstr ""
+"Es una lista de todos los bloques de la página. Si desea cambiar el "
+"encabezado, haga clic en el elemento de la lista que dice \"Encabezado\":"
+
+#: lib/admin/menu/setup.php:61
+#, fuzzy
+msgid "The template part header selected."
+msgstr "El encabezado de pieza de plantilla seleccionado."
+
+#: lib/admin/menu/setup.php:64
+#, fuzzy
+msgid ""
+"You can see all the blocks used to create the header, for example, the first "
+"column has a site title. The second column has a navigation, and the third "
+"column has a search form. "
+msgstr ""
+"Puede ver todos los bloques utilizados para crear el encabezado, por "
+"ejemplo, la primera columna tiene un título de sitio. La segunda columna "
+"tiene una navegación y la tercera columna tiene un formulario de búsqueda. "
+
+#: lib/admin/menu/setup.php:67
+#, fuzzy
+msgid ""
+"To change the black background, you can select the group, and change the "
+"color in the block settings sidebar."
+msgstr ""
+"Para cambiar el fondo negro, puede seleccionar el grupo y cambiar el color "
+"en la barra lateral de configuración del bloque."
+
+#: lib/admin/menu/setup.php:70
+#, fuzzy
+msgid ""
+"This is only one example of changes that you can make. Remember to save your "
+"changes."
+msgstr ""
+"Este es solo un ejemplo de los cambios que puede realizar. Recuerde guardar "
+"los cambios."
+
+#: lib/admin/menu/setup.php:76
+#, fuzzy
+msgid "How to edit content of the sidebar?"
+msgstr "¿Cómo editar el contenido de la barra lateral?"
+
+#: lib/admin/menu/setup.php:78
+#, fuzzy
+msgid ""
+"The sidebar is inside a template part. Like the header and footer can be "
+"edited in either the site editor or the block editor."
+msgstr ""
+"La barra lateral está dentro de una parte de plantilla. Al igual que el "
+"encabezado y el pie de página se pueden editar en el editor del sitio o en "
+"el editor de bloques."
+
+#: lib/admin/menu/setup.php:82
+#, fuzzy
+msgid "First, open the editor that you prefer."
+msgstr "Primero, abra el editor que prefiera."
+
+#: lib/admin/menu/setup.php:86
+#, fuzzy
+msgid "Choose the Page template and click edit."
+msgstr "Elija la plantilla Página y haga clic en editar."
+
+#: lib/admin/menu/setup.php:89
+#, fuzzy
+msgid "Select the Sidebar template part."
+msgstr "Seleccione la pieza de plantilla de barra lateral."
+
+#: lib/admin/menu/setup.php:92
+#, fuzzy
+msgid "Edit, remove and add any blocks that you want."
+msgstr "Edite, elimine y agregue los bloques que desee."
+
+#: lib/admin/menu/setup.php:95
+#, fuzzy
+msgid ""
+"When you save, make sure that the template part sidebar is selected. Once "
+"the sidebar has been saved, the changes will be reflected across the website."
+msgstr ""
+"Cuando guarde, asegúrese de que la barra lateral de la pieza de plantilla "
+"esté seleccionada. Una vez que se haya guardado la barra lateral, los "
+"cambios se reflejarán en todo el sitio web."
+
+#: lib/admin/menu/setup.php:98
+#, fuzzy
+msgid "The sidebar template part selected."
+msgstr "El elemento de plantilla de barra lateral seleccionado."
+
+#: lib/admin/menu/setup.php:104
+#, fuzzy
+msgid "How to use a premade templates?"
+msgstr "¿Cómo usar una plantilla prefabricada?"
+
+#: lib/admin/menu/setup.php:105
+#, fuzzy
+msgid ""
+"Wowmall comes with a set of predefined layouts for the most common sections "
+"of every site: About Us, Contact Us, Faq and Services."
+msgstr ""
+"Wowmall viene con un conjunto de diseños predefinidos para las secciones más "
+"comunes de cada sitio: Acerca de nosotros, Contáctenos, Preguntas frecuentes "
+"y Servicios."
+
+#: lib/admin/menu/setup.php:107
+#, fuzzy
+msgid ""
+"By default these templates are assigned to the pages with the url that "
+"matches their names: about-us, contact-us, faq and services."
+msgstr ""
+"De forma predeterminada, estas plantillas se asignan a las páginas con la "
+"url que coincide con sus nombres: about-us, contact-us, faq y services."
+
+#: lib/admin/menu/setup.php:110
+#, fuzzy
+msgid ""
+"If you want to change assigning any of these templates to another page, you "
+"can follow these instructions."
+msgstr ""
+"Si desea cambiar la asignación de cualquiera de estas plantillas a otra "
+"página, puede seguir estas instrucciones."
+
+#: lib/admin/menu/setup.php:115
+#, fuzzy
+msgid "First, create a new page and open the block editor."
+msgstr "Primero, cree una nueva página y abra el editor de bloques."
+
+#: lib/admin/menu/setup.php:118
+#, fuzzy
+msgid ""
+"In the block editor, under Status and Visibility section you will find a "
+"selector with all the templates available on the site."
+msgstr ""
+"En el editor de bloques, en la sección Estado y visibilidad, encontrará un "
+"selector con todas las plantillas disponibles en el sitio."
+
+#: lib/admin/menu/setup.php:123
+#, fuzzy
+msgid "Next, open the list of templates by clicking the selector."
+msgstr ""
+"A continuación, abra la lista de plantillas haciendo clic en el selector."
+
+#: lib/admin/menu/setup.php:126
+#, fuzzy
+msgid "Select the desired template an save changes."
+msgstr "Seleccione la plantilla deseada y guarde los cambios."
+
+#: lib/admin/menu/setup.php:133
+msgid "Required Plugin"
+msgstr "Plugin Necesario"
+
+#: lib/admin/menu/setup.php:134
+#, fuzzy
+msgid "Please install and activate Gutenberg version 11.6 or newer."
+msgstr "Instale y active Gutenberg versión 11.6 o posterior."
+
+#: lib/admin/menu/setup.php:136
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#: lib/admin/menu/welcome.php:3
+#, fuzzy
+msgid "The Wowmall Project"
+msgstr "El proyecto Wowmall"
+
+#: lib/admin/menu/welcome.php:5
+#, fuzzy
+msgid "Why are we talking about a project and not about a product?"
+msgstr "¿Por qué estamos hablando de un proyecto y no de un producto?"
+
+#: lib/admin/menu/welcome.php:8
+#, fuzzy
+msgid ""
+"Our goal is to create a development environment that allows users to create "
+"an eCommerce store without having to rely on third-party tools."
+msgstr ""
+"Nuestro objetivo es crear un entorno de desarrollo que permita a los "
+"usuarios crear una tienda de comercio electrónico sin tener que depender de "
+"herramientas de terceros."
+
+#: lib/admin/menu/welcome.php:11
+#, fuzzy
+msgid ""
+"Even though most times we use plugins to achieve certain functionalities on "
+"our sites, Wowmall’s end goal is to provide you with everything you need to "
+"build your online store without any third-party tools."
+msgstr ""
+"A pesar de que la mayoría de las veces usamos complementos para lograr "
+"ciertas funcionalidades en nuestros sitios, el objetivo final de Wowmall es "
+"proporcionarle todo lo que necesita para construir su tienda en línea sin "
+"herramientas de terceros."
+
+#: lib/admin/menu/welcome.php:14
+#, fuzzy
+msgid ""
+"Wowmall is and will always be an evolving project that receives constant "
+"updates and improvements. We are committed to providing you with all the "
+"necessary functionalities so that the creation of your own eCommerce store "
+"is only a few clicks away."
+msgstr ""
+"Wowmall es y siempre será un proyecto en evolución que recibe "
+"actualizaciones y mejoras constantes. Nos comprometemos a proporcionarle "
+"todas las funcionalidades necesarias para que la creación de su propia "
+"tienda de comercio electrónico esté a solo unos clics de distancia."
+
+#: lib/admin/menu/welcome.php:19
+#, fuzzy
+msgid "The state of the art"
+msgstr "El estado del arte"
+
+#: lib/admin/menu/welcome.php:21
+#, fuzzy
+msgid ""
+"One of the biggest advantages of WordPress is the possibility of accessing "
+"specific functions designed by third parties through the plugin directory."
+msgstr ""
+"Una de las mayores ventajas de WordPress es la posibilidad de acceder a "
+"funciones específicas diseñadas por terceros a través del directorio de "
+"plugins."
+
+#: lib/admin/menu/welcome.php:24
+#, fuzzy
+msgid ""
+"However, you need to understand each plugin and configure it to make it "
+"compatible with your theme. This process can be quite long and painful and "
+"most times you only end up with a successful integration through custom "
+"development."
+msgstr ""
+"Sin embargo, debe comprender cada complemento y configurarlo para que sea "
+"compatible con su tema. Este proceso puede ser bastante largo y doloroso y "
+"la mayoría de las veces solo termina con una integración exitosa a través "
+"del desarrollo personalizado."
+
+#: lib/admin/menu/welcome.php:28
+#, fuzzy
+msgid "Challenge accepted"
+msgstr "Reto aceptado"
+
+#: lib/admin/menu/welcome.php:30
+#, fuzzy
+msgid ""
+"With Wowmall, our mission is to provide you with all the necessary features "
+"and functionalities to set up an eCommerce store in a few clicks."
+msgstr ""
+"Con Wowmall, nuestra misión es proporcionarle todas las características y "
+"funcionalidades necesarias para configurar una tienda de comercio "
+"electrónico en unos pocos clics."
+
+#: lib/admin/menu/welcome.php:33
+#, fuzzy
+msgid ""
+"Our users are our number one priority and we’re committed to developing all "
+"the necessary tools to help them build better stores easier and faster."
+msgstr ""
+"Nuestros usuarios son nuestra prioridad número uno y estamos comprometidos a "
+"desarrollar todas las herramientas necesarias para ayudarlos a construir "
+"mejores tiendas de manera más fácil y rápida."
+
+#: lib/admin/menu/welcome.php:37
+#, fuzzy
+msgid "An evolving project"
+msgstr "Un proyecto en evolución"
+
+#: lib/admin/menu/welcome.php:39
+#, fuzzy
+msgid ""
+"This first version of the theme has been developed using the original "
+"WordPress blocks to explore the current possibilities and ensure good "
+"compatibility throughout the evolution of the new full site editor that is "
+"still in experimental stages."
+msgstr ""
+"Esta primera versión del tema se ha desarrollado utilizando los bloques "
+"originales de WordPress para explorar las posibilidades actuales y "
+"garantizar una buena compatibilidad a lo largo de la evolución del nuevo "
+"editor completo del sitio que aún se encuentra en etapas experimentales."
+
+#: lib/admin/menu/welcome.php:42
+#, fuzzy
+msgid ""
+"As a result, this initial version of Wowmall covers the fundamentals "
+"functionalities. Over time, we will release updates and new features that "
+"will incorporate blocks for every type of site and eCommerce."
+msgstr ""
+"Como resultado, esta versión inicial de Wowmall cubre las funcionalidades "
+"fundamentales. Con el tiempo, lanzaremos actualizaciones y nuevas "
+"características que incorporarán bloques para cada tipo de sitio y comercio "
+"electrónico."
+
+#: lib/admin/menu/welcome.php:45
+#, fuzzy, php-format
+msgid ""
+"Do you want to join the ride? <a target=\"_blank\" href=\"%s\">Click here</"
+"a> to know more."
+msgstr ""
+"¿Quieres unirte al paseo? <a target=\"_blank\" href=\"%s\">Haga clic aquí</"
+"a> para saber más."
+
+#: lib/admin/menu/welcome.php:50
+#, fuzzy
+msgid "Where do i get support?"
+msgstr "¿Dónde obtengo soporte?"
+
+#: lib/admin/menu/welcome.php:51
+#, fuzzy
+msgid ""
+"If you have any doubt or you find any issue don't hesitate to contact us "
+"through our ticket system or join our community to meet othes users."
+msgstr ""
+"Si tienes alguna duda o encuentras algún problema no dudes en ponerte en "
+"contacto con nosotros a través de nuestro sistema de tickets o unirte a "
+"nuestra comunidad para conocer a otros usuarios."
+
+#: lib/admin/menu/welcome.php:53
+msgid "Get Support"
+msgstr "Obtener Soporte"
+
+#: lib/admin/menu/welcome.php:54
+#, fuzzy
+msgid "Join Comunity"
+msgstr "Únete a Comunity"
+
+#: lib/admin/notices/gutenberg.php:17 lib/admin/notices/plugin.php:27
+msgid "Dismiss this notice."
+msgstr "Descartar este aviso."
+
+#: lib/admin/notices/gutenberg.php:24 lib/admin/notices/plugin.php:34
+#, fuzzy
+msgid "Thanks for installing Wowmall!"
+msgstr "¡Gracias por instalar Wowmall!"
+
+#: lib/admin/notices/gutenberg.php:26
+#, fuzzy
+msgid "Wowmall is an experimental full site editing theme."
+msgstr "Wowmall es un tema experimental de edición de sitio completo."
+
+#: lib/admin/notices/gutenberg.php:28
+#, fuzzy
+msgid ""
+"This theme requires the latest Gutenberg plugin version. Activate the plugin "
+"to view the theme."
+msgstr ""
+"Este tema requiere la última versión del plugin gutenberg. Activa el plugin "
+"para ver el tema."
+
+#: lib/admin/notices/gutenberg.php:39 lib/admin/notices/plugin.php:48
+#, php-format
+msgid "Activate %s"
+msgstr "Activar %s"
+
+#: lib/admin/notices/gutenberg.php:46 lib/admin/notices/plugin.php:55
+#, php-format
+msgid "Install %s"
+msgstr "Instalar %s"
+
+#: lib/admin/notices/gutenberg.php:50
+#, fuzzy
+msgid "What is a full site editing theme?"
+msgstr "¿Qué es un tema completo de edición del sitio?"
+
+#: lib/admin/notices/plugin.php:36
+#, fuzzy
+msgid "We strongly recommend you to activate the Wowmall Blocks plugin."
+msgstr ""
+"Le recomendamos encarecidamente que active el complemento Wowmall Blocks."
+
+#: lib/admin/notices/plugin.php:38
+#, fuzzy
+msgid ""
+"This way you will have access to entire custom blocks collection we've "
+"prepared to provide lot of awesome features"
+msgstr ""
+"De esta manera, tendrá acceso a toda la colección de bloques personalizados "
+"que hemos preparado para proporcionar muchas características increíbles."
+
+#: lib/admin/notices/plugin.php:58
+#, fuzzy
+msgid "Why whe recommend Wowmall Blocks?"
+msgstr "¿Por qué recomendar Wowmall Blocks?"
+
+#: lib/edit-site/classes/coming-soon.php:37
+#, fuzzy
+msgid ""
+"By activating this option you'll display the coming soon page to all no "
+"users without edit theme privileges."
+msgstr ""
+"Al activar esta opción, mostrará la página próximamente a todos los usuarios "
+"sin privilegios de edición del tema."
+
+#: lib/edit-site/classes/emoji-scripts.php:26
+#, fuzzy
+msgid "By activating this option you'll disable emoji scripts."
+msgstr "Al activar esta opción, desactivarás los scripts emoji."
+
+#: lib/edit-site/classes/maintenance-mode.php:37
+#, fuzzy
+msgid ""
+"By activating this option you'll display the maintenance page to all users."
+msgstr ""
+"Al activar esta opción, mostrará la página de mantenimiento a todos los "
+"usuarios."
+
+#: lib/edit-site/load.php:58
+msgid "Navigation"
+msgstr "Navegación"
+
+#: lib/edit-site/load.php:60
+#, fuzzy
+msgid ""
+"The Navigation template defines a page area that typically contains a the "
+"breadcrumbs and navigation elements after header."
+msgstr ""
+"La plantilla de navegación define un área de página que normalmente contiene "
+"una ruta de navegación y elementos de navegación después del encabezado."
+
+#: lib/edit-site/load.php:69
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: lib/edit-site/load.php:71
+#, fuzzy
+msgid ""
+"The Sidebar template containing Gallery, Social Links, Categories, Search "
+"and more Blocks."
+msgstr ""
+"La plantilla de barra lateral que contiene Galería, Enlaces sociales, "
+"Categorías, Búsqueda y más Bloques."
+
+#: lib/gutenberg/classes/block-patterns.php:25
+#, fuzzy
+msgid "Wowmall Blog"
+msgstr "Wowmall Blog"
+
+#: lib/gutenberg/classes/block-patterns.php:28
+#, fuzzy
+msgid "Wowmall Call to Action"
+msgstr "Llamado a la acción de Wowmall"
+
+#: lib/gutenberg/classes/block-patterns.php:31
+#, fuzzy
+msgid "Wowmall Footer"
+msgstr "Pie de página de Wowmall"
+
+#: lib/gutenberg/classes/block-patterns.php:34
+#, fuzzy
+msgid "Wowmall General"
+msgstr "Wowmall General"
+
+#: lib/gutenberg/classes/block-patterns.php:37
+#, fuzzy
+msgid "Wowmall Header"
+msgstr "Encabezado Wowmall"
+
+#: lib/gutenberg/classes/block-patterns.php:40
+#, fuzzy
+msgid "Wowmall Hero"
+msgstr "Wowmall Héroe"
+
+#: lib/gutenberg/classes/block-patterns.php:58
+#, fuzzy
+msgid "Two column grid with featured image, title, excerpt, and post date"
+msgstr ""
+"Cuadrícula de dos columnas con imagen destacada, título, extracto y fecha de "
+"publicación"
+
+#: lib/gutenberg/classes/block-patterns.php:64
+#, fuzzy
+msgid "Three column grid with featured image, title, and post date"
+msgstr ""
+"Cuadrícula de tres columnas con imagen destacada, título y fecha de "
+"publicación"
+
+#: lib/gutenberg/classes/block-patterns.php:70
+#, fuzzy
+msgid "Four column grid with featured image, title, and post date"
+msgstr ""
+"Cuadrícula de cuatro columnas con imagen destacada, título y fecha de "
+"publicación"
+
+#: lib/gutenberg/classes/block-patterns.php:76
+#, fuzzy
+msgid "List with featured image, title, excerpt, and post date."
+msgstr "Lista con imagen destacada, título, extracto y fecha de publicación."
+
+#: lib/gutenberg/classes/block-patterns.php:82
+#, fuzzy
+msgid "Compact list with featured image, title, and post date."
+msgstr "Lista compacta con imagen destacada, título y fecha de publicación."
+
+#: lib/gutenberg/classes/block-patterns.php:89
+#, fuzzy
+msgid "Horizontal call to action."
+msgstr "Llamada horizontal a la acción."
+
+#: lib/gutenberg/classes/block-patterns.php:95
+#: lib/gutenberg/classes/block-patterns.php:107
+#, fuzzy
+msgid "Horizontal call to action align left."
+msgstr "La llamada a la acción horizontal se alinea a la izquierda."
+
+#: lib/gutenberg/classes/block-patterns.php:101
+#, fuzzy
+msgid "Horizontal call to action align right."
+msgstr "La llamada a la acción horizontal se alinea a la derecha."
+
+#: lib/gutenberg/classes/block-patterns.php:113
+#, fuzzy
+msgid "Vertical call to action."
+msgstr "Llamada vertical a la acción."
+
+#: lib/gutenberg/classes/block-patterns.php:120
+#, fuzzy
+msgid "Footer with one row."
+msgstr "Pie de página con una fila."
+
+#: lib/gutenberg/classes/block-patterns.php:126
+#, fuzzy
+msgid "Footer with two rows."
+msgstr "Pie de página con dos filas."
+
+#: lib/gutenberg/classes/block-patterns.php:132
+#, fuzzy
+msgid "Footer with three rows."
+msgstr "Pie de página con tres filas."
+
+#: lib/gutenberg/classes/block-patterns.php:139
+#, fuzzy
+msgid "Frequently Asked Questions (FAQ) section."
+msgstr "Sección de Preguntas Frecuentes (FAQ)."
+
+#: lib/gutenberg/classes/block-patterns.php:145
+#, fuzzy
+msgid "Three Columns content whitout gap."
+msgstr "Contenido de tres columnas sin espacio."
+
+#: lib/gutenberg/classes/block-patterns.php:151
+#, fuzzy
+msgid "Full-width feature section with headings, text, and buttons."
+msgstr ""
+"Sección de características de ancho completo con encabezados, texto y "
+"botones."
+
+#: lib/gutenberg/classes/block-patterns.php:157
+#, fuzzy
+msgid "Featured box, text, and buttons."
+msgstr "Cuadro destacado, texto y botones."
+
+#: lib/gutenberg/classes/block-patterns.php:163
+#, fuzzy
+msgid "Follow us section with a vertical layout."
+msgstr "Síguenos en la sección con un diseño vertical."
+
+#: lib/gutenberg/classes/block-patterns.php:169
+#, fuzzy
+msgid "Follow us section with a horizontal layout."
+msgstr "Síguenos en la sección con un diseño horizontal."
+
+#: lib/gutenberg/classes/block-patterns.php:175
+#, fuzzy
+msgid "Information banner."
+msgstr "Banner informativo."
+
+#: lib/gutenberg/classes/block-patterns.php:181
+#, fuzzy
+msgid "Media and text with button."
+msgstr "Medios y texto con botón."
+
+#: lib/gutenberg/classes/block-patterns.php:187
+#, fuzzy
+msgid "Large featured section for the latest sticky post on the site."
+msgstr ""
+"Gran sección destacada para la última publicación adhesiva en el sitio."
+
+#: lib/gutenberg/classes/block-patterns.php:193
+#, fuzzy
+msgid "Latest news section with three posts."
+msgstr "Sección de últimas noticias con tres posts."
+
+#: lib/gutenberg/classes/block-patterns.php:199
+#, fuzzy
+msgid "Compact latest news section with three posts."
+msgstr "Sección compacta de últimas noticias con tres publicaciones."
+
+#: lib/gutenberg/classes/block-patterns.php:205
+#, fuzzy
+msgid "Pricing table with three tiers."
+msgstr "Tabla de precios con tres niveles."
+
+#: lib/gutenberg/classes/block-patterns.php:212
+#, fuzzy
+msgid ""
+"Header with site title and a menu. This is the default header in the theme."
+msgstr ""
+"Encabezado con título del sitio y un menú. Este es el encabezado "
+"predeterminado en el tema."
+
+#: lib/gutenberg/classes/block-patterns.php:218
+#, fuzzy
+msgid "Header with opening hours, button, site title and a menu."
+msgstr ""
+"Encabezado con horarios de apertura, botón, título del sitio y un menú."
+
+#: lib/gutenberg/classes/block-patterns.php:224
+#, fuzzy
+msgid ""
+"Header with opening hours, site title, social icons, a menu and a Call us "
+"button."
+msgstr ""
+"Encabezado con horarios de apertura, título del sitio, iconos sociales, un "
+"menú y un botón Llámenos."
+
+#: lib/gutenberg/classes/block-patterns.php:231
+#, fuzzy
+msgid "Header with site title, a menu and buttons."
+msgstr "Encabezado con título del sitio, un menú y botones."
+
+#: lib/gutenberg/classes/block-patterns.php:237
+#, fuzzy
+msgid "Header with site title, a menu and social icons."
+msgstr "Encabezado con título del sitio, un menú e iconos sociales."
+
+#: lib/gutenberg/classes/block-patterns.php:243
+#, fuzzy
+msgid "Header with site title, a menu and social icons stacked and centered."
+msgstr ""
+"Encabezado con título del sitio, un menú e iconos sociales apilados y "
+"centrados."
+
+#: lib/gutenberg/classes/block-patterns.php:250
+#, fuzzy
+msgid "Hero with a background image, a heading and paragraph."
+msgstr "Héroe con una imagen de fondo, un encabezado y un párrafo."
+
+#: lib/gutenberg/classes/block-patterns.php:256
+#, fuzzy
+msgid "Hero full height with a background image, a heading and paragraph."
+msgstr ""
+"Héroe de altura completa con una imagen de fondo, un encabezado y un párrafo."
+
+#: lib/gutenberg/classes/block-patterns.php:262
+#, fuzzy
+msgid ""
+"Hero with a background image and a heading, paragraph of text, and buttons."
+msgstr ""
+"Héroe con una imagen de fondo y un encabezado, párrafo de texto y botones."
+
+#: lib/gutenberg/classes/block-patterns.php:268
+#, fuzzy
+msgid "Hero with headings, a paragraph of text, and buttons."
+msgstr "Héroe con encabezados, un párrafo de texto y botones."
+
+#: lib/gutenberg/classes/block-styles.php:28
+#, fuzzy
+msgid "Rounded 100%"
+msgstr "Redondeado 100%"
+
+#: lib/gutenberg/classes/block-styles.php:37
+#, fuzzy
+msgid "Gap 0"
+msgstr "Brecha 0"
+
+#: lib/gutenberg/classes/block-styles.php:50
+#: lib/gutenberg/classes/block-styles.php:59
+#, fuzzy, php-format
+msgid "Aspect Ratio %s"
+msgstr "relación de aspecto %s"
+
+#: lib/gutenberg/classes/block-styles.php:69
+msgid "Border"
+msgstr "Borde"
+
+#: lib/gutenberg/classes/block-styles.php:77
+msgid "Dark"
+msgstr "Oscuro"
+
+#: lib/gutenberg/classes/block-styles.php:85
+msgid "Stroke"
+msgstr "Trazo"
+
+#: lib/gutenberg/classes/block-styles.php:93
+#: lib/gutenberg/classes/block-styles.php:101
+#, fuzzy
+msgid "Container Stretch"
+msgstr "Estiramiento del contenedor"
+
+#: lib/gutenberg/classes/block-styles.php:110
+msgid "Boxes"
+msgstr "Cajas"
+
+#: lib/gutenberg/load.php:23
+msgid "(No title)"
+msgstr "Tienda"
+
+#: lib/load.php:42
+#, fuzzy, php-format
+msgid "\"Can't find %s\" for \"%s\" in \"%s\"."
+msgstr "\"No puedo encontrar %s\" para \"%s\" en \"%s\"."
+
+#. Theme Name of the plugin/theme
+#, fuzzy
+msgid "WOWMALL"
+msgstr "WOWMALL"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid ""
+"An experimental full site editing theme for WooCommerce. This theme requires "
+"Gutenberg version 11.6 or newer. Wowmall includes multiple block styles and "
+"block patterns including site headers, site footers and page layouts."
+msgstr ""
+"Un tema experimental de edición de sitio completo para WooCommerce. Este "
+"tema requiere la versión 11.6 o posterior de Gutenberg. Wowmall incluye "
+"múltiples estilos de bloques y patrones de bloques, incluidos encabezados de "
+"sitio, pies de página y diseños de página."
+
+#. Author of the plugin/theme
+#, fuzzy
+msgid "Wowmall"
+msgstr "Wowmall"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://wowmall.store"
+msgstr "https://wowmall.store"

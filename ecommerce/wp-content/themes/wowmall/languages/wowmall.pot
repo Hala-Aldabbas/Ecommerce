@@ -1,0 +1,667 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WOWMALL\n"
+"POT-Creation-Date: 2021-10-01 14:10-0300\n"
+"PO-Revision-Date: 2021-10-01 14:03-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: .delete\n"
+"X-Poedit-SearchPathExcluded-2: .developer\n"
+"X-Poedit-SearchPathExcluded-3: .git\n"
+"X-Poedit-SearchPathExcluded-4: .patterns\n"
+
+#: functions.php:23 index.php:4
+msgid ""
+"Wowmall is an experimental full site editing theme that requires the "
+"Gutenberg plugin. Activate the plugin to view the theme."
+msgstr ""
+
+#: lib/admin/classes/menu.php:32 lib/admin/classes/menu.php:33
+msgid "Welcome"
+msgstr ""
+
+#: lib/admin/classes/menu.php:45 lib/admin/classes/menu.php:46
+msgid "Setup"
+msgstr ""
+
+#: lib/admin/menu/header.php:34
+msgid ""
+"This is the first release of an experimental full site editing theme for "
+"WooCommerce. "
+msgstr ""
+
+#: lib/admin/menu/header.php:35
+msgid ""
+"Please do not use this theme on a production site because templates, block "
+"patterns and block styles may change in future versions."
+msgstr ""
+
+#: lib/admin/menu/header.php:38
+msgid "Demo"
+msgstr ""
+
+#: lib/admin/menu/header.php:39
+msgid "Documentation"
+msgstr ""
+
+#: lib/admin/menu/setup.php:3
+msgid ""
+"These instructions were written for Gutenberg 11.6 if you are using a "
+"different version, the UI might look different."
+msgstr ""
+
+#: lib/admin/menu/setup.php:7
+msgid "How to open Gutenberg editor?"
+msgstr ""
+
+#: lib/admin/menu/setup.php:9
+msgid ""
+"Currently, there are two ways to access the Gutenberg editor, the site "
+"editor and the template editor."
+msgstr ""
+
+#: lib/admin/menu/setup.php:14
+msgid "Site Editor"
+msgstr ""
+
+#: lib/admin/menu/setup.php:17
+msgid "You can access the site editor through the WordPress admin area:"
+msgstr ""
+
+#: lib/admin/menu/setup.php:20
+msgid ""
+"The site editor menu is above the Appearance menu in the WordPress admin."
+msgstr ""
+
+#: lib/admin/menu/setup.php:25
+msgid "Template Editor"
+msgstr ""
+
+#: lib/admin/menu/setup.php:28
+msgid ""
+"In the block editor, the template edit link is found in the post/page "
+"settings sidebar under Status and Visibility:"
+msgstr ""
+
+#: lib/admin/menu/setup.php:31
+msgid ""
+"The select field where you can select the template for the current page."
+msgstr ""
+
+#: lib/admin/menu/setup.php:37
+msgid "How to edit header and footer?"
+msgstr ""
+
+#: lib/admin/menu/setup.php:39
+msgid ""
+"The header and footer can be edited in either the site editor or the block "
+"editor."
+msgstr ""
+
+#: lib/admin/menu/setup.php:42
+msgid ""
+"If you are not already familiar with the site editor, then the second option "
+"may be easier."
+msgstr ""
+
+#: lib/admin/menu/setup.php:47
+msgid "First, open the editor that you prefer:"
+msgstr ""
+
+#: lib/admin/menu/setup.php:52
+msgid "Next, open the list view feature."
+msgstr ""
+
+#: lib/admin/menu/setup.php:55
+msgid ""
+"The list view can be opened from the top toolbar. It looks a little bit "
+"different depending on which editor you selected."
+msgstr ""
+
+#: lib/admin/menu/setup.php:58
+msgid ""
+"It is a list of all the blocks on the page. If you want to change the "
+"header, click on the item in the list that says \"Header\":"
+msgstr ""
+
+#: lib/admin/menu/setup.php:61
+msgid "The template part header selected."
+msgstr ""
+
+#: lib/admin/menu/setup.php:64
+msgid ""
+"You can see all the blocks used to create the header, for example, the first "
+"column has a site title. The second column has a navigation, and the third "
+"column has a search form. "
+msgstr ""
+
+#: lib/admin/menu/setup.php:67
+msgid ""
+"To change the black background, you can select the group, and change the "
+"color in the block settings sidebar."
+msgstr ""
+
+#: lib/admin/menu/setup.php:70
+msgid ""
+"This is only one example of changes that you can make. Remember to save your "
+"changes."
+msgstr ""
+
+#: lib/admin/menu/setup.php:76
+msgid "How to edit content of the sidebar?"
+msgstr ""
+
+#: lib/admin/menu/setup.php:78
+msgid ""
+"The sidebar is inside a template part. Like the header and footer can be "
+"edited in either the site editor or the block editor."
+msgstr ""
+
+#: lib/admin/menu/setup.php:82
+msgid "First, open the editor that you prefer."
+msgstr ""
+
+#: lib/admin/menu/setup.php:86
+msgid "Choose the Page template and click edit."
+msgstr ""
+
+#: lib/admin/menu/setup.php:89
+msgid "Select the Sidebar template part."
+msgstr ""
+
+#: lib/admin/menu/setup.php:92
+msgid "Edit, remove and add any blocks that you want."
+msgstr ""
+
+#: lib/admin/menu/setup.php:95
+msgid ""
+"When you save, make sure that the template part sidebar is selected. Once "
+"the sidebar has been saved, the changes will be reflected across the website."
+msgstr ""
+
+#: lib/admin/menu/setup.php:98
+msgid "The sidebar template part selected."
+msgstr ""
+
+#: lib/admin/menu/setup.php:104
+msgid "How to use a premade templates?"
+msgstr ""
+
+#: lib/admin/menu/setup.php:105
+msgid ""
+"Wowmall comes with a set of predefined layouts for the most common sections "
+"of every site: About Us, Contact Us, Faq and Services."
+msgstr ""
+
+#: lib/admin/menu/setup.php:107
+msgid ""
+"By default these templates are assigned to the pages with the url that "
+"matches their names: about-us, contact-us, faq and services."
+msgstr ""
+
+#: lib/admin/menu/setup.php:110
+msgid ""
+"If you want to change assigning any of these templates to another page, you "
+"can follow these instructions."
+msgstr ""
+
+#: lib/admin/menu/setup.php:115
+msgid "First, create a new page and open the block editor."
+msgstr ""
+
+#: lib/admin/menu/setup.php:118
+msgid ""
+"In the block editor, under Status and Visibility section you will find a "
+"selector with all the templates available on the site."
+msgstr ""
+
+#: lib/admin/menu/setup.php:123
+msgid "Next, open the list of templates by clicking the selector."
+msgstr ""
+
+#: lib/admin/menu/setup.php:126
+msgid "Select the desired template an save changes."
+msgstr ""
+
+#: lib/admin/menu/setup.php:133
+msgid "Required Plugin"
+msgstr ""
+
+#: lib/admin/menu/setup.php:134
+msgid "Please install and activate Gutenberg version 11.6 or newer."
+msgstr ""
+
+#: lib/admin/menu/setup.php:136
+msgid "Gutenberg"
+msgstr ""
+
+#: lib/admin/menu/welcome.php:3
+msgid "The Wowmall Project"
+msgstr ""
+
+#: lib/admin/menu/welcome.php:5
+msgid "Why are we talking about a project and not about a product?"
+msgstr ""
+
+#: lib/admin/menu/welcome.php:8
+msgid ""
+"Our goal is to create a development environment that allows users to create "
+"an eCommerce store without having to rely on third-party tools."
+msgstr ""
+
+#: lib/admin/menu/welcome.php:11
+msgid ""
+"Even though most times we use plugins to achieve certain functionalities on "
+"our sites, Wowmall’s end goal is to provide you with everything you need to "
+"build your online store without any third-party tools."
+msgstr ""
+
+#: lib/admin/menu/welcome.php:14
+msgid ""
+"Wowmall is and will always be an evolving project that receives constant "
+"updates and improvements. We are committed to providing you with all the "
+"necessary functionalities so that the creation of your own eCommerce store "
+"is only a few clicks away."
+msgstr ""
+
+#: lib/admin/menu/welcome.php:19
+msgid "The state of the art"
+msgstr ""
+
+#: lib/admin/menu/welcome.php:21
+msgid ""
+"One of the biggest advantages of WordPress is the possibility of accessing "
+"specific functions designed by third parties through the plugin directory."
+msgstr ""
+
+#: lib/admin/menu/welcome.php:24
+msgid ""
+"However, you need to understand each plugin and configure it to make it "
+"compatible with your theme. This process can be quite long and painful and "
+"most times you only end up with a successful integration through custom "
+"development."
+msgstr ""
+
+#: lib/admin/menu/welcome.php:28
+msgid "Challenge accepted"
+msgstr ""
+
+#: lib/admin/menu/welcome.php:30
+msgid ""
+"With Wowmall, our mission is to provide you with all the necessary features "
+"and functionalities to set up an eCommerce store in a few clicks."
+msgstr ""
+
+#: lib/admin/menu/welcome.php:33
+msgid ""
+"Our users are our number one priority and we’re committed to developing all "
+"the necessary tools to help them build better stores easier and faster."
+msgstr ""
+
+#: lib/admin/menu/welcome.php:37
+msgid "An evolving project"
+msgstr ""
+
+#: lib/admin/menu/welcome.php:39
+msgid ""
+"This first version of the theme has been developed using the original "
+"WordPress blocks to explore the current possibilities and ensure good "
+"compatibility throughout the evolution of the new full site editor that is "
+"still in experimental stages."
+msgstr ""
+
+#: lib/admin/menu/welcome.php:42
+msgid ""
+"As a result, this initial version of Wowmall covers the fundamentals "
+"functionalities. Over time, we will release updates and new features that "
+"will incorporate blocks for every type of site and eCommerce."
+msgstr ""
+
+#: lib/admin/menu/welcome.php:45
+#, php-format
+msgid ""
+"Do you want to join the ride? <a target=\"_blank\" href=\"%s\">Click here</"
+"a> to know more."
+msgstr ""
+
+#: lib/admin/menu/welcome.php:50
+msgid "Where do i get support?"
+msgstr ""
+
+#: lib/admin/menu/welcome.php:51
+msgid ""
+"If you have any doubt or you find any issue don't hesitate to contact us "
+"through our ticket system or join our community to meet othes users."
+msgstr ""
+
+#: lib/admin/menu/welcome.php:53
+msgid "Get Support"
+msgstr ""
+
+#: lib/admin/menu/welcome.php:54
+msgid "Join Comunity"
+msgstr ""
+
+#: lib/admin/notices/gutenberg.php:17 lib/admin/notices/plugin.php:27
+msgid "Dismiss this notice."
+msgstr ""
+
+#: lib/admin/notices/gutenberg.php:24 lib/admin/notices/plugin.php:34
+msgid "Thanks for installing Wowmall!"
+msgstr ""
+
+#: lib/admin/notices/gutenberg.php:26
+msgid "Wowmall is an experimental full site editing theme."
+msgstr ""
+
+#: lib/admin/notices/gutenberg.php:28
+msgid ""
+"This theme requires the latest Gutenberg plugin version. Activate the plugin "
+"to view the theme."
+msgstr ""
+
+#: lib/admin/notices/gutenberg.php:39 lib/admin/notices/plugin.php:48
+#, php-format
+msgid "Activate %s"
+msgstr ""
+
+#: lib/admin/notices/gutenberg.php:46 lib/admin/notices/plugin.php:55
+#, php-format
+msgid "Install %s"
+msgstr ""
+
+#: lib/admin/notices/gutenberg.php:50
+msgid "What is a full site editing theme?"
+msgstr ""
+
+#: lib/admin/notices/plugin.php:36
+msgid "We strongly recommend you to activate the Wowmall Blocks plugin."
+msgstr ""
+
+#: lib/admin/notices/plugin.php:38
+msgid ""
+"This way you will have access to entire custom blocks collection we've "
+"prepared to provide lot of awesome features"
+msgstr ""
+
+#: lib/admin/notices/plugin.php:58
+msgid "Why whe recommend Wowmall Blocks?"
+msgstr ""
+
+#: lib/edit-site/classes/coming-soon.php:37
+msgid ""
+"By activating this option you'll display the coming soon page to all no "
+"users without edit theme privileges."
+msgstr ""
+
+#: lib/edit-site/classes/emoji-scripts.php:26
+msgid "By activating this option you'll disable emoji scripts."
+msgstr ""
+
+#: lib/edit-site/classes/maintenance-mode.php:37
+msgid ""
+"By activating this option you'll display the maintenance page to all users."
+msgstr ""
+
+#: lib/edit-site/load.php:58
+msgid "Navigation"
+msgstr ""
+
+#: lib/edit-site/load.php:60
+msgid ""
+"The Navigation template defines a page area that typically contains a the "
+"breadcrumbs and navigation elements after header."
+msgstr ""
+
+#: lib/edit-site/load.php:69
+msgid "Sidebar"
+msgstr ""
+
+#: lib/edit-site/load.php:71
+msgid ""
+"The Sidebar template containing Gallery, Social Links, Categories, Search "
+"and more Blocks."
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:25
+msgid "Wowmall Blog"
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:28
+msgid "Wowmall Call to Action"
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:31
+msgid "Wowmall Footer"
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:34
+msgid "Wowmall General"
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:37
+msgid "Wowmall Header"
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:40
+msgid "Wowmall Hero"
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:58
+msgid "Two column grid with featured image, title, excerpt, and post date"
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:64
+msgid "Three column grid with featured image, title, and post date"
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:70
+msgid "Four column grid with featured image, title, and post date"
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:76
+msgid "List with featured image, title, excerpt, and post date."
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:82
+msgid "Compact list with featured image, title, and post date."
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:89
+msgid "Horizontal call to action."
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:95
+#: lib/gutenberg/classes/block-patterns.php:107
+msgid "Horizontal call to action align left."
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:101
+msgid "Horizontal call to action align right."
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:113
+msgid "Vertical call to action."
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:120
+msgid "Footer with one row."
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:126
+msgid "Footer with two rows."
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:132
+msgid "Footer with three rows."
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:139
+msgid "Frequently Asked Questions (FAQ) section."
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:145
+msgid "Three Columns content whitout gap."
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:151
+msgid "Full-width feature section with headings, text, and buttons."
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:157
+msgid "Featured box, text, and buttons."
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:163
+msgid "Follow us section with a vertical layout."
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:169
+msgid "Follow us section with a horizontal layout."
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:175
+msgid "Information banner."
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:181
+msgid "Media and text with button."
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:187
+msgid "Large featured section for the latest sticky post on the site."
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:193
+msgid "Latest news section with three posts."
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:199
+msgid "Compact latest news section with three posts."
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:205
+msgid "Pricing table with three tiers."
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:212
+msgid ""
+"Header with site title and a menu. This is the default header in the theme."
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:218
+msgid "Header with opening hours, button, site title and a menu."
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:224
+msgid ""
+"Header with opening hours, site title, social icons, a menu and a Call us "
+"button."
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:231
+msgid "Header with site title, a menu and buttons."
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:237
+msgid "Header with site title, a menu and social icons."
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:243
+msgid "Header with site title, a menu and social icons stacked and centered."
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:250
+msgid "Hero with a background image, a heading and paragraph."
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:256
+msgid "Hero full height with a background image, a heading and paragraph."
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:262
+msgid ""
+"Hero with a background image and a heading, paragraph of text, and buttons."
+msgstr ""
+
+#: lib/gutenberg/classes/block-patterns.php:268
+msgid "Hero with headings, a paragraph of text, and buttons."
+msgstr ""
+
+#: lib/gutenberg/classes/block-styles.php:28
+msgid "Rounded 100%"
+msgstr ""
+
+#: lib/gutenberg/classes/block-styles.php:37
+msgid "Gap 0"
+msgstr ""
+
+#: lib/gutenberg/classes/block-styles.php:50
+#: lib/gutenberg/classes/block-styles.php:59
+#, php-format
+msgid "Aspect Ratio %s"
+msgstr ""
+
+#: lib/gutenberg/classes/block-styles.php:69
+msgid "Border"
+msgstr ""
+
+#: lib/gutenberg/classes/block-styles.php:77
+msgid "Dark"
+msgstr ""
+
+#: lib/gutenberg/classes/block-styles.php:85
+msgid "Stroke"
+msgstr ""
+
+#: lib/gutenberg/classes/block-styles.php:93
+#: lib/gutenberg/classes/block-styles.php:101
+msgid "Container Stretch"
+msgstr ""
+
+#: lib/gutenberg/classes/block-styles.php:110
+msgid "Boxes"
+msgstr ""
+
+#: lib/gutenberg/load.php:23
+msgid "(No title)"
+msgstr ""
+
+#: lib/load.php:42
+#, php-format
+msgid "\"Can't find %s\" for \"%s\" in \"%s\"."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "WOWMALL"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"An experimental full site editing theme for WooCommerce. This theme requires "
+"Gutenberg version 11.6 or newer. Wowmall includes multiple block styles and "
+"block patterns including site headers, site footers and page layouts."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Wowmall"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wowmall.store"
+msgstr ""
